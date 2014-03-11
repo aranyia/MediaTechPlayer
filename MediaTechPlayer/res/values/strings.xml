@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">MediaTechPlayer</string>
+    <string name="serviceName">MediaTechPlayer Audio Service</string>
+    <string name="buttonVideos">Videos</string>
+    <string name="buttonMusic">Music</string>
+    <string name="noMedia">No media data can be found.</string>
+    <string name="minutes">min.</string>
+</resources>
